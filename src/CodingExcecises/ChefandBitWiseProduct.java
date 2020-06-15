@@ -30,6 +30,7 @@ public class ChefandBitWiseProduct {
             long x=S.nextLong();
             long y=S.nextLong();
             int q=0;
+            int s=1;
 
             long l=S.nextLong();
             long r=S.nextLong();
