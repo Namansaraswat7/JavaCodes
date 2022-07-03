@@ -7,7 +7,8 @@ public class BinarySearchRecursion {
             int mid = l + (r-1)/2;
             System.out.println(mid);
 
-            if(arr[mid]==x)return mid;
+            if(arr[mid]==x)
+                return mid;
 
             if(arr[mid]>x)
             {
